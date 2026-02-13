@@ -33,6 +33,10 @@ You will be prompted to enter the CSV file name.
 - Dependency-free
 - Suitable for automation pipelines
 
+-The screenshots included in this repository reflect the full internal tool.
+This demo version represents a simplified public showcase.
+
+
 ## Status
 
 Early-stage demonstration version.
